@@ -1,12 +1,17 @@
 import { GeoJSON, LayersControl} from "react-leaflet";
-import { useRef} from "react";
+import { useRef, useEffect} from "react";
 
 export const AssemblyLayer = ({data}) => {
+
+  
+   
+
 
     const geoJsonRef = useRef();
 
     const onEachClick = (feature, layer) => {
-        console.log("test");
+
+             
 
         const District = feature.properties.DISTRICT;
 
@@ -34,10 +39,12 @@ export const AssemblyLayer = ({data}) => {
 
         const Name = feature.properties.Name;
 
+       
+
         layer.bindPopup(
             "Assembly District: <b>" + District + "</b>" +
             "<br>Incumbent: " + Name +
-            "<br>Party : " + Party + 
+            "<br>Party :" +  Party + 
             "<br>Registered Voters : " + RegVoters +
             "<br>Registration Baseline : " + Baseline +
             "<hr>Population: " + Populationstr +
@@ -48,24 +55,45 @@ export const AssemblyLayer = ({data}) => {
             "<br>White CVA: " + WHTstr
             
           );
-
+      
           layer.on({ click: handleFeatureClick });
+
+                 
 
     }
 
     const handleFeatureClick = (e) => {
         if (!geoJsonRef.current) return;
         geoJsonRef.current.resetStyle();
+                          
     
         const layer = e.target;
-    
-        layer.setStyle({ color: "red" });
+        layer.setStyle({color:"yellow"})
+        
       };
+
+    
+
+     const assm = ((feature)=> {
+
+       
+        if(feature.properties.Party === "(R)") {
+            return({color:"red"}) }
+
+        if(feature.properties.Party === "(D)") {
+            return({color:"blue"}) }
+
+        if(feature.properties.Party === "(NPP)") {
+            return({color:"black"}) }  
+            
+        
+
+     })
 
     const layer =  (<GeoJSON  data = {data}
         onEachFeature = {onEachClick}
         ref={geoJsonRef}
-        color="blue"
+        style = {assm}
     ></GeoJSON>)
 
     return (
