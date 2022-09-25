@@ -34,7 +34,7 @@ export const SenateLayer = ({data}) => {
         const Name = feature.properties.Name;
 
         layer.bindPopup(
-            "Assembly District: <b>" + District + "</b>" +
+            "Senate District: <b>" + District + "</b>" +
             "<br>Incumbent: " + Name +
             "<br>Party :" +  Party + 
             "<br>Registered Voters : " + RegVoters +
