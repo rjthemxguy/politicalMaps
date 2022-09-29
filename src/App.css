@@ -45,7 +45,7 @@
 .topDiv {
   display: flex;
   justify-content: space-between;
-  height: 30px;
+  height: 45px;
   padding-top: 10px;
   background-color: navy;
   color: white;
@@ -67,6 +67,15 @@
   
 }
 
+.linkDiv {
+  margin-top: 60px;
+ 
+}
+
+.grid-top {
+  padding-top: 60px;
+}
+
 .downloadDiv {
   text-align: left;
   padding-top: 30px;
@@ -83,10 +92,17 @@
 }
 
 .hamburger {
+  margin-top: 0;
   margin-left: 10px;
 }
 
+.D {
+  color:navy;
+}
 
+.R {
+  color:red;
+}
 
 
 
