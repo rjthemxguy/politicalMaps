@@ -2,28 +2,17 @@ import React from 'react'
 
 const BaseCell = (cellData) => {
 
+    const getClass = () => {
 
- if(cellData.data.Baseline.substring(0,1) === "R")
-    {
-    return (
-        <div className="R">
-            {cellData.data.Baseline}
-        </div>
-            )
-    }
+    if(cellData.data.Baseline.substring(0,1) === "R")
+        return ("R")
 
     if(cellData.data.Baseline.substring(0,1) === "D")
-    {
-    return (
-        <div className="D">
-            {cellData.data.Baseline}
-        </div>
-            )
+        return ("D")
     }
 
-
     return (
-        <div>
+        <div className={getClass(cellData)}>
             {cellData.data.Baseline}
         </div>
             )

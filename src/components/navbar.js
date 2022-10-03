@@ -21,7 +21,7 @@ function Navbar() {
                 <div class="hamburger">
                 <FaIcons.FaBars className="fa-3x mt-1" onClick={showSidebar}/>
                 </div>
-
+               
                 <div>2020 CA Political Boundries</div>
 
                 <div class="backDiv">

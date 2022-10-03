@@ -58,6 +58,7 @@ const GridTest = () => {
     dataSource={office}
     showBorders={true}
     rowAlternationEnabled={true}
+    columnHidingEnabled={true}
   >
        <FilterRow visible={true}/>
        <HeaderFilter visible={true} />

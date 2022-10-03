@@ -1,6 +1,26 @@
 import React from 'react'
 
 const Detail = (props) => {
+
+  const getClass = (baseline) => {
+
+    if(baseline.substring(0,1) === "R")
+        return ("R")
+
+    if(baseline.substring(0,1) === "D")
+        return ("D")
+    }
+
+    const getPartyClass = (party) => {
+
+      if(party === "(R)")
+          return ("R")
+  
+      if(party === "(D)")
+          return ("D")
+      }
+
+
     const {District, Name, Baseline, Party,
       POPULATION, CVAP_19,DOJ_NH_BLK,
       DOJ_NH_ASN, NH_WHT_CVA,HSP_CVAP_1  } = props.data.data;
@@ -17,8 +37,8 @@ const Detail = (props) => {
         District: {District} <br/>
         Name: {Name} <br/>
         <hr />
-        Party: {Party} <br/>
-        Baseline: {Baseline} <br />
+        Party:<span className={getPartyClass(Party)} > {Party} </span> <br/>
+        Baseline: <span className={getClass(Baseline)} >{Baseline}</span> <br />
         Citizens of Voting Age (CVA): {CVAP_19F} <br/>
         CVA Black: {DOJ_NH_BLKF} <br />
         CVA Asian: {DOJ_NH_ASNF} <br/>
