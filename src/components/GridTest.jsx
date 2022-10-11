@@ -8,6 +8,9 @@ import BaseCell from './BaseDiff';
 import DiffCell from './diffCell';
 import Detail from './Detail';
 import Navbar from './navbar';
+import '../App.css';
+import NumCell from './NumCell'
+
 
 
 
@@ -48,12 +51,17 @@ const GridTest = () => {
   return (
       <>
     <Navbar/>
-    <div class="container grid-top ">
+    <div class="container grid-top">
 
+      <div>
       <button onClick={handleChange} type="button" class="btn btn-primary mb-4 me-4">Assembly</button>
       <button onClick={handleChange3} type="button" class="btn btn-primary mb-4 me-4">Senate</button>
       <button onClick={handleChange2} type="button" class="btn btn-primary mb-4 me-4">Congress</button>
+      </div>
+
+      <div>
       <h1>{title}</h1>
+
     <DataGrid
     dataSource={office}
     showBorders={true}
@@ -81,11 +89,14 @@ const GridTest = () => {
         allowFiltering={true}
         cellRender={DiffCell}
         />
+
+       
         <MasterDetail
           enabled={true}
           component={Detail}
         />
     </DataGrid>
+    </div>
     </div>
     </>
   )

@@ -2,7 +2,7 @@ export const assmData = [
     {
           "District": 1,
           "Name": "Megan Dahle",
-          "Registered Voters": "335,947",
+          "RegisteredVoters": "335947",
           "Baseline": "R +12.02%",
           "Party": "(R)",
           "POPULATION": 506402,
@@ -15,7 +15,7 @@ export const assmData = [
     {
           "District": 10,
           "Name": "Jim Cooper",
-          "Registered Voters": "271,144",
+          "RegisteredVoters": "271144",
           "Baseline": "D +31.97%",
           "Party": "(D)",
           "POPULATION": 518416,
@@ -28,7 +28,7 @@ export const assmData = [
     {
           "District": 11,
           "Name": "Lori Wilson",
-          "Registered Voters": "301,468",
+          "RegisteredVoters": "301468",
           "Baseline": "D +25.04%",
           "Party": "(D)",
           "POPULATION": 514921,
@@ -41,7 +41,7 @@ export const assmData = [
     {
           "District": 12,
           "Name": "Marc Levine",
-          "Registered Voters": "305,216",
+          "RegisteredVoters": "305216",
           "Baseline": "D +44.60%",
           "Party": "(D)",
           "POPULATION": 482778,
@@ -54,7 +54,7 @@ export const assmData = [
     {
           "District": 13,
           "Name": "Carlos Villapudua",
-          "Registered Voters": "226,766",
+          "RegisteredVoters": "226766",
           "Baseline": "D +28.73%",
           "Party": "(D)",
           "POPULATION": 489925,
@@ -67,7 +67,7 @@ export const assmData = [
     {
           "District": 14,
           "Name": "Buffy Wicks",
-          "Registered Voters": "279,702",
+          "RegisteredVoters": "279702",
           "Baseline": "D +63.53%",
           "Party": "(D)",
           "POPULATION": 475705,
@@ -80,7 +80,7 @@ export const assmData = [
     {
           "District": 15,
           "Name": "Tim Grayson",
-          "Registered Voters": "299,025",
+          "RegisteredVoters": "299025",
           "Baseline": "D +33.69%",
           "Party": "(D)",
           "POPULATION": 512289,
@@ -93,7 +93,7 @@ export const assmData = [
     {
           "District": 16,
           "Name": "Rebecca Bauer-Kahan",
-          "Registered Voters": "332,073",
+          "RegisteredVoters": "332073",
           "Baseline": "D +24.86%",
           "Party": "(D)",
           "POPULATION": 516216,
@@ -106,7 +106,7 @@ export const assmData = [
     {
           "District": 17,
           "Name": "VACANT (D)",
-          "Registered Voters": "280,568",
+          "RegisteredVoters": "280568",
           "Baseline": "D +58.84%",
           "Party": "(D)",
           "POPULATION": 518498,
@@ -119,7 +119,7 @@ export const assmData = [
     {
           "District": 18,
           "Name": "Mia Bonta",
-          "Registered Voters": "270,051",
+          "RegisteredVoters": "270051",
           "Baseline": "D +63.47%",
           "Party": "(D)",
           "POPULATION": 485267,
@@ -132,7 +132,7 @@ export const assmData = [
     {
           "District": 19,
           "Name": "Phil Ting",
-          "Registered Voters": "293,834",
+          "RegisteredVoters": "293834",
           "Baseline": "D +51.06%",
           "Party": "(D)",
           "POPULATION": 503871,
@@ -145,7 +145,7 @@ export const assmData = [
     {
           "District": 2,
           "Name": "Jim Wood",
-          "Registered Voters": "312,985",
+          "RegisteredVoters": "312985",
           "Baseline": "D +29.54%",
           "Party": "(D)",
           "POPULATION": 504804,
@@ -158,7 +158,7 @@ export const assmData = [
     {
           "District": 20,
           "Name": "Bill Quirk",
-          "Registered Voters": "280,273",
+          "RegisteredVoters": "280273",
           "Baseline": "D +43.46%",
           "Party": "(D)",
           "POPULATION": 516830,
@@ -171,7 +171,7 @@ export const assmData = [
     {
           "District": 21,
           "Name": "Kevin Mullin",
-          "Registered Voters": "271,589",
+          "RegisteredVoters": "271589",
           "Baseline": "D +41.11%",
           "Party": "(D)",
           "POPULATION": 493702,
@@ -184,7 +184,7 @@ export const assmData = [
     {
           "District": 22,
           "Name": "Adrin Nazarian",
-          "Registered Voters": "234,436",
+          "RegisteredVoters": "234436",
           "Baseline": "D +7.62%",
           "Party": "(D)",
           "POPULATION": 471588,
@@ -197,7 +197,7 @@ export const assmData = [
     {
           "District": 23,
           "Name": "Marc Berman",
-          "Registered Voters": "278,483",
+          "RegisteredVoters": "278483",
           "Baseline": "D +39.29%",
           "Party": "(D)",
           "POPULATION": 474000,
@@ -210,7 +210,7 @@ export const assmData = [
     {
           "District": 24,
           "Name": "Alex Lee",
-          "Registered Voters": "240,115",
+          "RegisteredVoters": "240115",
           "Baseline": "D +34.42%",
           "Party": "(D)",
           "POPULATION": 478426,
@@ -223,7 +223,7 @@ export const assmData = [
     {
           "District": 25,
           "Name": "Ash Kalra",
-          "Registered Voters": "246,332",
+          "RegisteredVoters": "246332",
           "Baseline": "D +36.69%",
           "Party": "(D)",
           "POPULATION": 497894,
@@ -236,7 +236,7 @@ export const assmData = [
     {
           "District": 26,
           "Name": "Evan Low",
-          "Registered Voters": "211,116",
+          "RegisteredVoters": "211116",
           "Baseline": "D +37.33%",
           "Party": "(D)",
           "POPULATION": 472660,
@@ -249,7 +249,7 @@ export const assmData = [
     {
           "District": 27,
           "Name": "Adam Gray",
-          "Registered Voters": "215,515",
+          "RegisteredVoters": "215515",
           "Baseline": "D +15.96%",
           "Party": "(D)",
           "POPULATION": 512647,
@@ -262,7 +262,7 @@ export const assmData = [
     {
           "District": 28,
           "Name": "Mark Stone",
-          "Registered Voters": "296,147",
+          "RegisteredVoters": "296147",
           "Baseline": "D +33.38%",
           "Party": "(D)",
           "POPULATION": 473114,
@@ -275,7 +275,7 @@ export const assmData = [
     {
           "District": 29,
           "Name": "Robert Rivas",
-          "Registered Voters": "229,233",
+          "RegisteredVoters": "229233",
           "Baseline": "D +34.12%",
           "Party": "(D)",
           "POPULATION": 495410,
@@ -288,7 +288,7 @@ export const assmData = [
     {
           "District": 3,
           "Name": "Jim Gallagher",
-          "Registered Voters": "274,387",
+          "RegisteredVoters": "274387",
           "Baseline": "R +8.40%",
           "Party": "(R)",
           "POPULATION": 496832,
@@ -301,7 +301,7 @@ export const assmData = [
     {
           "District": 30,
           "Name": "Jordan Cunningham",
-          "Registered Voters": "304,116",
+          "RegisteredVoters": "304116",
           "Baseline": "D +18.56%",
           "Party": "(R)",
           "POPULATION": 474319,
@@ -314,7 +314,7 @@ export const assmData = [
     {
           "District": 31,
           "Name": "Joaquin Arambula",
-          "Registered Voters": "217,372",
+          "RegisteredVoters": "217372",
           "Baseline": "D +24.43%",
           "Party": "(D)",
           "POPULATION": 498044,
@@ -327,7 +327,7 @@ export const assmData = [
     {
           "District": 32,
           "Name": "Vince Fong",
-          "Registered Voters": "302,323",
+          "RegisteredVoters": "302323",
           "Baseline": "R +21.75%",
           "Party": "(R)",
           "POPULATION": 515015,
@@ -340,7 +340,7 @@ export const assmData = [
     {
           "District": 33,
           "Name": "Devon Mathis",
-          "Registered Voters": "205,709",
+          "RegisteredVoters": "205709",
           "Baseline": "D +0.07%",
           "Party": "(R)",
           "POPULATION": 505368,
@@ -353,7 +353,7 @@ export const assmData = [
     {
           "District": 34,
           "Name": "Thurston Smitty Smith",
-          "Registered Voters": "285,086",
+          "RegisteredVoters": "285086",
           "Baseline": "R +7.85%",
           "Party": "(R)",
           "POPULATION": 518705,
@@ -366,7 +366,7 @@ export const assmData = [
     {
           "District": 35,
           "Name": "Rudy Salas",
-          "Registered Voters": "195,036",
+          "RegisteredVoters": "195036",
           "Baseline": "D +24.40%",
           "Party": "(D)",
           "POPULATION": 482837,
@@ -379,7 +379,7 @@ export const assmData = [
     {
           "District": 36,
           "Name": "Eduardo Garcia",
-          "Registered Voters": "230,758",
+          "RegisteredVoters": "230758",
           "Baseline": "D +17.22%",
           "Party": "(D)",
           "POPULATION": 469902,
@@ -392,7 +392,7 @@ export const assmData = [
     {
           "District": 37,
           "Name": "Vacant (D)",
-          "Registered Voters": "254,142",
+          "RegisteredVoters": "254142",
           "Baseline": "D +20.22%",
           "Party": "(D)",
           "POPULATION": 474067,
@@ -405,7 +405,7 @@ export const assmData = [
     {
           "District": 38,
           "Name": "Steve Bennett",
-          "Registered Voters": "265,834",
+          "RegisteredVoters": "265834",
           "Baseline": "D +26.43%",
           "Party": "(D)",
           "POPULATION": 485654,
@@ -418,7 +418,7 @@ export const assmData = [
     {
           "District": 39,
           "Name": "Tom Lackey",
-          "Registered Voters": "227,888",
+          "RegisteredVoters": "227888",
           "Baseline": "D +25.65%",
           "Party": "(R)",
           "POPULATION": 484755,
@@ -431,7 +431,7 @@ export const assmData = [
     {
           "District": 4,
           "Name": "Cecilia Aguiar-Curry",
-          "Registered Voters": "269,858",
+          "RegisteredVoters": "269858",
           "Baseline": "D +26.77%",
           "Party": "(D)",
           "POPULATION": 475880,
@@ -444,7 +444,7 @@ export const assmData = [
     {
           "District": 40,
           "Name": "Suzette Valladares",
-          "Registered Voters": "324,499",
+          "RegisteredVoters": "324499",
           "Baseline": "D +12.96%",
           "Party": "(R)",
           "POPULATION": 517085,
@@ -457,7 +457,7 @@ export const assmData = [
     {
           "District": 41,
           "Name": "Chris Holden",
-          "Registered Voters": "324,589",
+          "RegisteredVoters": "324589",
           "Baseline": "D +17.14%",
           "Party": "(D)",
           "POPULATION": 485018,
@@ -470,7 +470,7 @@ export const assmData = [
     {
           "District": 42,
           "Name": "Jacqui Irwin",
-          "Registered Voters": "355,859",
+          "RegisteredVoters": "355859",
           "Baseline": "D +10.78%",
           "Party": "(D)",
           "POPULATION": 517503,
@@ -483,7 +483,7 @@ export const assmData = [
     {
           "District": 43,
           "Name": "Luz Rivas",
-          "Registered Voters": "247,407",
+          "RegisteredVoters": "247407",
           "Baseline": "D +42.37%",
           "Party": "(D)",
           "POPULATION": 508082,
@@ -496,7 +496,7 @@ export const assmData = [
     {
           "District": 44,
           "Name": "Laura Friedman",
-          "Registered Voters": "329,959",
+          "RegisteredVoters": "329959",
           "Baseline": "D +31.07%",
           "Party": "(D)",
           "POPULATION": 514568,
@@ -509,7 +509,7 @@ export const assmData = [
     {
           "District": 45,
           "Name": "James Ramos",
-          "Registered Voters": "241,886",
+          "RegisteredVoters": "241886",
           "Baseline": "D +26.46%",
           "Party": "(D)",
           "POPULATION": 490577,
@@ -522,7 +522,7 @@ export const assmData = [
     {
           "District": 46,
           "Name": "Jesse Gabriel",
-          "Registered Voters": "278,943",
+          "RegisteredVoters": "278943",
           "Baseline": "D +32.40%",
           "Party": "(D)",
           "POPULATION": 503724,
@@ -535,7 +535,7 @@ export const assmData = [
     {
           "District": 47,
           "Name": "Chad Mayes",
-          "Registered Voters": "308,832",
+          "RegisteredVoters": "308832",
           "Baseline": "D +5.82%",
           "Party": "(NPP)",
           "POPULATION": 518651,
@@ -548,7 +548,7 @@ export const assmData = [
     {
           "District": 48,
           "Name": "Blanca Rubio",
-          "Registered Voters": "266,035",
+          "RegisteredVoters": "266035",
           "Baseline": "D +27.13%",
           "Party": "(D)",
           "POPULATION": 482665,
@@ -561,7 +561,7 @@ export const assmData = [
     {
           "District": 49,
           "Name": "VACANT (D)",
-          "Registered Voters": "250,183",
+          "RegisteredVoters": "250183",
           "Baseline": "D +27.34%",
           "Party": "(D)",
           "POPULATION": 474851,
@@ -574,7 +574,7 @@ export const assmData = [
     {
           "District": 5,
           "Name": "Kevin Kiley",
-          "Registered Voters": "346,319",
+          "RegisteredVoters": "346319",
           "Baseline": "R +10.60%",
           "Party": "(R)",
           "POPULATION": 498465,
@@ -587,7 +587,7 @@ export const assmData = [
     {
           "District": 50,
           "Name": "Eloise Gomez-Reyes",
-          "Registered Voters": "249,511",
+          "RegisteredVoters": "249511",
           "Baseline": "D +22.68%",
           "Party": "(D)",
           "POPULATION": 489965,
@@ -600,7 +600,7 @@ export const assmData = [
     {
           "District": 51,
           "Name": "Richard Bloom",
-          "Registered Voters": "311,519",
+          "RegisteredVoters": "311519",
           "Baseline": "D +46.32%",
           "Party": "(D)",
           "POPULATION": 497330,
@@ -613,7 +613,7 @@ export const assmData = [
     {
           "District": 52,
           "Name": "Wendy Carrillo",
-          "Registered Voters": "292,497",
+          "RegisteredVoters": "292497",
           "Baseline": "D +52.35%",
           "Party": "(D)",
           "POPULATION": 518060,
@@ -626,7 +626,7 @@ export const assmData = [
     {
           "District": 53,
           "Name": "Freddie Rodriguez",
-          "Registered Voters": "235,741",
+          "RegisteredVoters": "235741",
           "Baseline": "D +26.39%",
           "Party": "(D)",
           "POPULATION": 475714,
@@ -639,7 +639,7 @@ export const assmData = [
     {
           "District": 54,
           "Name": "Miguel Santiago",
-          "Registered Voters": "212,565",
+          "RegisteredVoters": "212565",
           "Baseline": "D +49.17%",
           "Party": "(D)",
           "POPULATION": 505678,
@@ -652,7 +652,7 @@ export const assmData = [
     {
           "District": 55,
           "Name": "Isaac Bryan",
-          "Registered Voters": "296,614",
+          "RegisteredVoters": "296614",
           "Baseline": "D +56.98%",
           "Party": "(D)",
           "POPULATION": 476444,
@@ -665,7 +665,7 @@ export const assmData = [
     {
           "District": 56,
           "Name": "Lisa Calderon",
-          "Registered Voters": "279,652",
+          "RegisteredVoters": "279652",
           "Baseline": "D +27.98%",
           "Party": "(D)",
           "POPULATION": 493173,
@@ -678,7 +678,7 @@ export const assmData = [
     {
           "District": 57,
           "Name": "Reggie Jones-Sawyer",
-          "Registered Voters": "212,691",
+          "RegisteredVoters": "212691",
           "Baseline": "D +58.05%",
           "Party": "(D)",
           "POPULATION": 507191,
@@ -691,7 +691,7 @@ export const assmData = [
     {
           "District": 58,
           "Name": "Sabrina Cervantes",
-          "Registered Voters": "246,533",
+          "RegisteredVoters": "246533",
           "Baseline": "D +18.88%",
           "Party": "(D)",
           "POPULATION": 496636,
@@ -704,7 +704,7 @@ export const assmData = [
     {
           "District": 59,
           "Name": "Phillip Chen",
-          "Registered Voters": "302,377",
+          "RegisteredVoters": "302377",
           "Baseline": "R +7.01%",
           "Party": "(R)",
           "POPULATION": 470576,
@@ -717,7 +717,7 @@ export const assmData = [
     {
           "District": 6,
           "Name": "Kevin McCarty",
-          "Registered Voters": "276,359",
+          "RegisteredVoters": "276359",
           "Baseline": "D +30.04%",
           "Party": "(D)",
           "POPULATION": 518242,
@@ -730,7 +730,7 @@ export const assmData = [
     {
           "District": 60,
           "Name": "Jose Medina",
-          "Registered Voters": "222,166",
+          "RegisteredVoters": "222166",
           "Baseline": "D +24.79%",
           "Party": "(D)",
           "POPULATION": 469942,
@@ -743,7 +743,7 @@ export const assmData = [
     {
           "District": 61,
           "Name": "Autumn Burke",
-          "Registered Voters": "276,368",
+          "RegisteredVoters": "276368",
           "Baseline": "D +53.66%",
           "Party": "(D)",
           "POPULATION": 491779,
@@ -756,7 +756,7 @@ export const assmData = [
     {
           "District": 62,
           "Name": "Anthony Rendon",
-          "Registered Voters": "236,272",
+          "RegisteredVoters": "236272",
           "Baseline": "D +41.99%",
           "Party": "(D)",
           "POPULATION": 472817,
@@ -769,7 +769,7 @@ export const assmData = [
     {
           "District": 63,
           "Name": "Kelly Seyarto",
-          "Registered Voters": "289,236",
+          "RegisteredVoters": "289236",
           "Baseline": "R +3.97%",
           "Party": "(R)",
           "POPULATION": 478438,
@@ -782,7 +782,7 @@ export const assmData = [
     {
           "District": 64,
           "Name": "Cristina Garcia",
-          "Registered Voters": "274,756",
+          "RegisteredVoters": "274756",
           "Baseline": "D +30.66%",
           "Party": "(D)",
           "POPULATION": 512311,
@@ -795,7 +795,7 @@ export const assmData = [
     {
           "District": 65,
           "Name": "Mike Gipson",
-          "Registered Voters": "260,505",
+          "RegisteredVoters": "260505",
           "Baseline": "D +49.79%",
           "Party": "(D)",
           "POPULATION": 503396,
@@ -808,7 +808,7 @@ export const assmData = [
     {
           "District": 66,
           "Name": "Al Muratsuchi",
-          "Registered Voters": "312,494",
+          "RegisteredVoters": "312494",
           "Baseline": "D +17.10%",
           "Party": "(D)",
           "POPULATION": 474015,
@@ -821,7 +821,7 @@ export const assmData = [
     {
           "District": 67,
           "Name": "Sharon Quirk-Silva",
-          "Registered Voters": "248,368",
+          "RegisteredVoters": "248368",
           "Baseline": "D +17.59%",
           "Party": "(D)",
           "POPULATION": 473294,
@@ -834,7 +834,7 @@ export const assmData = [
     {
           "District": 68,
           "Name": "Tom Daly",
-          "Registered Voters": "205,932",
+          "RegisteredVoters": "205932",
           "Baseline": "D +29.99%",
           "Party": "(D)",
           "POPULATION": 485224,
@@ -847,7 +847,7 @@ export const assmData = [
     {
           "District": 69,
           "Name": "Patrick O'Donnell",
-          "Registered Voters": "281,997",
+          "RegisteredVoters": "281997",
           "Baseline": "D +35.20%",
           "Party": "(D)",
           "POPULATION": 479919,
@@ -860,7 +860,7 @@ export const assmData = [
     {
           "District": 7,
           "Name": "Ken Cooley",
-          "Registered Voters": "283,389",
+          "RegisteredVoters": "283389",
           "Baseline": "D +5.18%",
           "Party": "(D)",
           "POPULATION": 491703,
@@ -873,7 +873,7 @@ export const assmData = [
     {
           "District": 70,
           "Name": "Janet Nguyen",
-          "Registered Voters": "256,026",
+          "RegisteredVoters": "256026",
           "Baseline": "D +3.98%",
           "Party": "(R)",
           "POPULATION": 472278,
@@ -886,7 +886,7 @@ export const assmData = [
     {
           "District": 71,
           "Name": "VACANT (R)",
-          "Registered Voters": "313,285",
+          "RegisteredVoters": "313285",
           "Baseline": "R +10.26%",
           "Party": "(R)",
           "POPULATION": 494346,
@@ -899,7 +899,7 @@ export const assmData = [
     {
           "District": 72,
           "Name": "Cottie Petrie-Norris",
-          "Registered Voters": "337,280",
+          "RegisteredVoters": "337280",
           "Baseline": "R +6.15%",
           "Party": "(D)",
           "POPULATION": 495360,
@@ -912,7 +912,7 @@ export const assmData = [
     {
           "District": 73,
           "Name": "Steven Choi",
-          "Registered Voters": "255,475",
+          "RegisteredVoters": "255475",
           "Baseline": "D +13.36%",
           "Party": "(R)",
           "POPULATION": 500525,
@@ -925,7 +925,7 @@ export const assmData = [
     {
           "District": 74,
           "Name": "Laurie Davies",
-          "Registered Voters": "298,658",
+          "RegisteredVoters": "298658",
           "Baseline": "D +0.24%",
           "Party": "(R)",
           "POPULATION": 512202,
@@ -938,7 +938,7 @@ export const assmData = [
     {
           "District": 75,
           "Name": "Randy Voepel",
-          "Registered Voters": "304,928",
+          "RegisteredVoters": "304928",
           "Baseline": "R +11.99%",
           "Party": "(R)",
           "POPULATION": 471193,
@@ -951,7 +951,7 @@ export const assmData = [
     {
           "District": 76,
           "Name": "Brian Maienschein",
-          "Registered Voters": "274,340",
+          "RegisteredVoters": "274340",
           "Baseline": "D +6.38%",
           "Party": "(D)",
           "POPULATION": 471670,
@@ -964,7 +964,7 @@ export const assmData = [
     {
           "District": 77,
           "Name": "Tasha Boerner Horvath",
-          "Registered Voters": "321,921",
+          "RegisteredVoters": "321921",
           "Baseline": "D +16.21%",
           "Party": "(D)",
           "POPULATION": 508556,
@@ -977,7 +977,7 @@ export const assmData = [
     {
           "District": 78,
           "Name": "Chris Ward",
-          "Registered Voters": "310,116",
+          "RegisteredVoters": "310116",
           "Baseline": "D +25.57%",
           "Party": "(D)",
           "POPULATION": 512852,
@@ -990,7 +990,7 @@ export const assmData = [
     {
           "District": 79,
           "Name": "Akilah Weber",
-          "Registered Voters": "267,806",
+          "RegisteredVoters": "267806",
           "Baseline": "D +26.11%",
           "Party": "(D)",
           "POPULATION": 505901,
@@ -1003,7 +1003,7 @@ export const assmData = [
     {
           "District": 8,
           "Name": "Jim Patterson",
-          "Registered Voters": "319,228",
+          "RegisteredVoters": "319228",
           "Baseline": "R +13.51%",
           "Party": "(R)",
           "POPULATION": 501653,
@@ -1016,7 +1016,7 @@ export const assmData = [
     {
           "District": 80,
           "Name": "Lorena Gonzalez Fletcher",
-          "Registered Voters": "291,184",
+          "RegisteredVoters": "291184",
           "Baseline": "D +26.81%",
           "Party": "(D)",
           "POPULATION": 517104,
@@ -1029,7 +1029,7 @@ export const assmData = [
     {
           "District": 9,
           "Name": "Heath Flora",
-          "Registered Voters": "264,385",
+          "RegisteredVoters": "264385",
           "Baseline": "R +7.59%",
           "Party": "(R)",
           "POPULATION": 470020,

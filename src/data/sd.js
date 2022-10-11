@@ -2,7 +2,7 @@ export const sdData = [
     {
           "District": 33,
           "Name": "Lena Gonzalez",
-          "Registered Voters": "539178",
+          "RegisteredVoters": "539178",
           "Baseline": "D +41.40%",
           "Party": "(D)",
           "POPULATION": 1036292,
@@ -15,7 +15,7 @@ export const sdData = [
     {
           "District": 23,
           "Name": "Scott Wilk",
-          "Registered Voters": "562924",
+          "RegisteredVoters": "562924",
           "Baseline": "D +10.03%",
           "Party": "(R)",
           "POPULATION": 1033749,
@@ -28,7 +28,7 @@ export const sdData = [
     {
           "District": 9,
           "Name": "Steve Glazer",
-          "Registered Voters": "600523",
+          "RegisteredVoters": "600523",
           "Baseline": "D +34.27%",
           "Party": "(D)",
           "POPULATION": 992658,
@@ -41,7 +41,7 @@ export const sdData = [
     {
           "District": 39,
           "Name": "Toni Atkins",
-          "Registered Voters": "598182",
+          "RegisteredVoters": "598182",
           "Baseline": "D +22.91%",
           "Party": "(D)",
           "POPULATION": 1036034,
@@ -54,7 +54,7 @@ export const sdData = [
     {
           "District": 4,
           "Name": "Andreas Borgeas",
-          "Registered Voters": "608007",
+          "RegisteredVoters": "608007",
           "Baseline": "R +3.38%",
           "Party": "(R)",
           "POPULATION": 1032056,
@@ -67,7 +67,7 @@ export const sdData = [
     {
           "District": 10,
           "Name": "Bob Wieckowski",
-          "Registered Voters": "500159",
+          "RegisteredVoters": "500159",
           "Baseline": "D +38.50%",
           "Party": "(D)",
           "POPULATION": 1036376,
@@ -80,7 +80,7 @@ export const sdData = [
     {
           "District": 27,
           "Name": "Henry Stern",
-          "Registered Voters": "643772",
+          "RegisteredVoters": "643772",
           "Baseline": "D +22.28",
           "Party": "(D)",
           "POPULATION": 993140,
@@ -93,7 +93,7 @@ export const sdData = [
     {
           "District": 12,
           "Name": "Shannon Grove",
-          "Registered Voters": "555616",
+          "RegisteredVoters": "555616",
           "Baseline": "R +16.64%",
           "Party": "(R)",
           "POPULATION": 939354,
@@ -106,7 +106,7 @@ export const sdData = [
     {
           "District": 37,
           "Name": "Dave Min",
-          "Registered Voters": "592724",
+          "RegisteredVoters": "592724",
           "Baseline": "D +3.69%",
           "Party": "(D)",
           "POPULATION": 1019944,
@@ -119,7 +119,7 @@ export const sdData = [
     {
           "District": 16,
           "Name": "Melissa Hurtado",
-          "Registered Voters": "378173",
+          "RegisteredVoters": "378173",
           "Baseline": "D +13.10%",
           "Party": "(D)",
           "POPULATION": 942212,
@@ -132,7 +132,7 @@ export const sdData = [
     {
           "District": 19,
           "Name": "Rosilicie Ochoa Bogh",
-          "Registered Voters": "535846",
+          "RegisteredVoters": "535846",
           "Baseline": "D +1.34%",
           "Party": "(R)",
           "POPULATION": 952665,
@@ -145,7 +145,7 @@ export const sdData = [
     {
           "District": 17,
           "Name": "John Laird",
-          "Registered Voters": "558084",
+          "RegisteredVoters": "558084",
           "Baseline": "D +29.01%",
           "Party": "(D)",
           "POPULATION": 993921,
@@ -158,7 +158,7 @@ export const sdData = [
     {
           "District": 36,
           "Name": "VACANT (R)",
-          "Registered Voters": "622470",
+          "RegisteredVoters": "622470",
           "Baseline": "R +1.96%",
           "Party": "(R)",
           "POPULATION": 988357,
@@ -171,7 +171,7 @@ export const sdData = [
     {
           "District": 3,
           "Name": "Bill Dodd",
-          "Registered Voters": "606073",
+          "RegisteredVoters": "606073",
           "Baseline": "D +27.41%",
           "Party": "(D)",
           "POPULATION": 1034770,
@@ -184,7 +184,7 @@ export const sdData = [
     {
           "District": 2,
           "Name": "Mike McGuire",
-          "Registered Voters": "617056",
+          "RegisteredVoters": "617056",
           "Baseline": "D +35.31%",
           "Party": "(D)",
           "POPULATION": 991571,
@@ -197,7 +197,7 @@ export const sdData = [
     {
           "District": 1,
           "Name": "Brian Dahle",
-          "Registered Voters": "560613",
+          "RegisteredVoters": "560613",
           "Baseline": "R +12.49%",
           "Party": "(R)",
           "POPULATION": 938834,
@@ -210,7 +210,7 @@ export const sdData = [
     {
           "District": 13,
           "Name": "Josh Becker",
-          "Registered Voters": "580509",
+          "RegisteredVoters": "580509",
           "Baseline": "D +39.51%",
           "Party": "(D)",
           "POPULATION": 1012486,
@@ -223,7 +223,7 @@ export const sdData = [
     {
           "District": 6,
           "Name": "Jim Nielsen",
-          "Registered Voters": "592622",
+          "RegisteredVoters": "592622",
           "Baseline": "R +0.53%",
           "Party": "(R)",
           "POPULATION": 966763,
@@ -236,7 +236,7 @@ export const sdData = [
     {
           "District": 29,
           "Name": "Connie Leyva",
-          "Registered Voters": "475490",
+          "RegisteredVoters": "475490",
           "Baseline": "D +24.12%",
           "Party": "(D)",
           "POPULATION": 943463,
@@ -249,7 +249,7 @@ export const sdData = [
     {
           "District": 34,
           "Name": "Tom Umberg",
-          "Registered Voters": "428089",
+          "RegisteredVoters": "428089",
           "Baseline": "D +26.04%",
           "Party": "(D)",
           "POPULATION": 948688,
@@ -262,7 +262,7 @@ export const sdData = [
     {
           "District": 8,
           "Name": "Richard Pan",
-          "Registered Voters": "495431",
+          "RegisteredVoters": "495431",
           "Baseline": "D +32.69%",
           "Party": "(D)",
           "POPULATION": 945172,
@@ -275,7 +275,7 @@ export const sdData = [
     {
           "District": 15,
           "Name": "Dave Cortese",
-          "Registered Voters": "547311",
+          "RegisteredVoters": "547311",
           "Baseline": "D +33.34%",
           "Party": "(D)",
           "POPULATION": 1032570,
@@ -288,7 +288,7 @@ export const sdData = [
     {
           "District": 14,
           "Name": "Anna Caballero",
-          "Registered Voters": "424594",
+          "RegisteredVoters": "424594",
           "Baseline": "D +20.07%",
           "Party": "(D)",
           "POPULATION": 998216,
@@ -301,7 +301,7 @@ export const sdData = [
     {
           "District": 31,
           "Name": "Richard Roth",
-          "Registered Voters": "459860",
+          "RegisteredVoters": "459860",
           "Baseline": "D +23.09%",
           "Party": "(D)",
           "POPULATION": 955140,
@@ -314,7 +314,7 @@ export const sdData = [
     {
           "District": 21,
           "Name": "S. Monique Limon",
-          "Registered Voters": "562845",
+          "RegisteredVoters": "562845",
           "Baseline": "D +21.82%",
           "Party": "(D)",
           "POPULATION": 1024600,
@@ -327,7 +327,7 @@ export const sdData = [
     {
           "District": 20,
           "Name": "Bob Hertzberg",
-          "Registered Voters": "483816",
+          "RegisteredVoters": "483816",
           "Baseline": "D +36.92%",
           "Party": "(D)",
           "POPULATION": 946077,
@@ -340,7 +340,7 @@ export const sdData = [
     {
           "District": 40,
           "Name": "Brian Jones",
-          "Registered Voters": "567542",
+          "RegisteredVoters": "567542",
           "Baseline": "D +0.21%",
           "Party": "(R)",
           "POPULATION": 952610,
@@ -353,7 +353,7 @@ export const sdData = [
     {
           "District": 22,
           "Name": "Susan Rubio",
-          "Registered Voters": "520513",
+          "RegisteredVoters": "520513",
           "Baseline": "D +26.56%",
           "Party": "(D)",
           "POPULATION": 1009475,
@@ -366,7 +366,7 @@ export const sdData = [
     {
           "District": 25,
           "Name": "Anthony Portantino",
-          "Registered Voters": "621405",
+          "RegisteredVoters": "621405",
           "Baseline": "D +23.45%",
           "Party": "(D)",
           "POPULATION": 1034541,
@@ -379,7 +379,7 @@ export const sdData = [
     {
           "District": 30,
           "Name": "Bob Archuleta",
-          "Registered Voters": "564780",
+          "RegisteredVoters": "564780",
           "Baseline": "D +28.39%",
           "Party": "(D)",
           "POPULATION": 991239,
@@ -392,7 +392,7 @@ export const sdData = [
     {
           "District": 7,
           "Name": "Nancy Skinner",
-          "Registered Voters": "549731",
+          "RegisteredVoters": "549731",
           "Baseline": "D +63.50%",
           "Party": "(D)",
           "POPULATION": 960880,
@@ -405,7 +405,7 @@ export const sdData = [
     {
           "District": 26,
           "Name": "Maria Elena Durazo",
-          "Registered Voters": "472464",
+          "RegisteredVoters": "472464",
           "Baseline": "D +53.03%",
           "Party": "(D)",
           "POPULATION": 948823,
@@ -418,7 +418,7 @@ export const sdData = [
     {
           "District": 24,
           "Name": "Ben Allen",
-          "Registered Voters": "686682",
+          "RegisteredVoters": "686682",
           "Baseline": "D +30.30%",
           "Party": "(D)",
           "POPULATION": 1035622,
@@ -431,7 +431,7 @@ export const sdData = [
     {
           "District": 18,
           "Name": "Ben Hueso",
-          "Registered Voters": "502984",
+          "RegisteredVoters": "502984",
           "Baseline": "D +26.12%",
           "Party": "(D)",
           "POPULATION": 956746,
@@ -444,7 +444,7 @@ export const sdData = [
     {
           "District": 11,
           "Name": "Scott Wiener",
-          "Registered Voters": "574411",
+          "RegisteredVoters": "574411",
           "Baseline": "D +54.85%",
           "Party": "(D)",
           "POPULATION": 1022311,
@@ -457,7 +457,7 @@ export const sdData = [
     {
           "District": 38,
           "Name": "Pat Bates",
-          "Registered Voters": "603220",
+          "RegisteredVoters": "603220",
           "Baseline": "D +5.58%",
           "Party": "(R)",
           "POPULATION": 975288,
@@ -470,7 +470,7 @@ export const sdData = [
     {
           "District": 35,
           "Name": "Steven Bradford",
-          "Registered Voters": "505366",
+          "RegisteredVoters": "505366",
           "Baseline": "D +50.48%",
           "Party": "(D)",
           "POPULATION": 953821,
@@ -483,7 +483,7 @@ export const sdData = [
     {
           "District": 5,
           "Name": "Susan Eggman",
-          "Registered Voters": "526074",
+          "RegisteredVoters": "526074",
           "Baseline": "D +17.77%",
           "Party": "(D)",
           "POPULATION": 1021134,
@@ -496,7 +496,7 @@ export const sdData = [
     {
           "District": 32,
           "Name": "Melissa Melendez",
-          "Registered Voters": "583034",
+          "RegisteredVoters": "583034",
           "Baseline": "R +8.30%",
           "Party": "(R)",
           "POPULATION": 940016,
@@ -509,7 +509,7 @@ export const sdData = [
     {
           "District": 28,
           "Name": "Sydney Kamlager",
-          "Registered Voters": "533039",
+          "RegisteredVoters": "533039",
           "Baseline": "D +56.50%",
           "Party": "(D)",
           "POPULATION": 985823,
